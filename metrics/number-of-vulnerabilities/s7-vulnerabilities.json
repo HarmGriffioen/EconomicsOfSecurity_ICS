@@ -1,0 +1,308 @@
+[
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 6.1
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.3"
+        ],
+        "score": 6.5
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 6.1
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.3"
+        ],
+        "score": 6.5
+      }
+    ],
+    "id": "CVE-2017-2681"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 2",
+          "Basic Firmware: v.2"
+        ],
+        "score": 6.1
+      },
+      {
+        "matches": [
+          "Module: 6ES7 2",
+          "Basic Firmware: v.3"
+        ],
+        "score": 6.5
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 6.1
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.3"
+        ],
+        "score": 6.5
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 6.1
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.3"
+        ],
+        "score": 6.5
+      }
+    ],
+    "id": "CVE-2017-2680"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 4.3
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.3"
+        ],
+        "score": 5.9
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 4.3
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.3"
+        ],
+        "score": 5.9
+      }
+    ],
+    "id": "CVE-2016-9159"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 7.8
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.3"
+        ],
+        "score": 7.5
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 7.8
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.3"
+        ],
+        "score": 7.5
+      }
+    ],
+    "id": "CVE-2016-9158"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 6.8
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.3"
+        ],
+        "score": 8.8
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 6.8
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.3"
+        ],
+        "score": 8.8
+      }
+    ],
+    "id": "CVE-2016-8673"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 5
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.3"
+        ],
+        "score": 5.3
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 5
+      },
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.3"
+        ],
+        "score": 5.3
+      }
+    ],
+    "id": "CVE-2016-8672"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 7.8
+      },
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.3"
+        ],
+        "score": 7.5
+      }
+    ],
+    "id": "CVE-2016-3949"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 3",
+          "Basic Firmware: v.2"
+        ],
+        "score": 7.8
+      }
+    ],
+    "id": "CVE-2015-2177"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 7.8
+      }
+    ],
+    "id": "CVE-2012-3017"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "Module: 6ES7 4",
+          "Basic Firmware: v.2"
+        ],
+        "score": 7.8
+      }
+    ],
+    "id": "CVE-2012-3016"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "VIPA 3"
+        ],
+        "score": "7.5"
+      },
+      {
+        "matches": [
+          "Basic Firmware: VIPA AG"
+        ],
+        "score": "5.0"
+      }
+    ],
+    "id": "CVE-2017-5177"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "WinAC RTX"
+        ],
+        "score": "6.9"
+      }
+    ],
+    "id": "CVE-2016-7165"
+  },
+  {
+    "variants": [
+      {
+        "matches": [
+          "WinAC MP 2"
+        ],
+        "score": "6.8"
+      }
+    ],
+    "id": "CVE-2015-2823"
+  }
+]
